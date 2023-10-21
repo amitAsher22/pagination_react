@@ -1,17 +1,17 @@
 .App {
   display: flex;
   flex-direction: column;
+
   place-items: center;
-  gap: 2rem 0px;
-  margin: 0 auto;
-  margin-top: 2rem;
+
 
 }
 
 .users {
 
-  background-color: rgb(24, 207, 207);
+  background-color: rgb(124, 124, 124);
   padding: 1.5rem;
+  margin: 2rem;
   width: 20em;
   height: 15em;
   border-radius: 2rem;
@@ -21,7 +21,7 @@
   align-items: center;
   text-align: center;
   justify-items: center;
-  margin: auto 0;
+
 
 }
 
@@ -46,7 +46,7 @@
 
 .paginationBttns a:hover {
   color: white;
-  background-color: #2d2eff;
+  background-color: #4343a2;
 }
 
 .paginationActive a {
